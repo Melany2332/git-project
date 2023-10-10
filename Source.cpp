@@ -4,7 +4,7 @@
 
 #include"C:\Users\melan\Downloads\Timing.h"
 
-using namespace std
+using namespace std;
 
 
 void ascendingSort(std::vector<int>& nums, const int N) {
